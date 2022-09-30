@@ -98,8 +98,9 @@
 
 <h2 align="left">Statistical Data:</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphaiaiai&show_icons=true&locale=en&layout=compact" alt="pphaiaiai"  /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphaiaiai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pphaiaiai" 
+/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pphaiaiai&show_icons=true&locale=en" alt="pphaiaiai" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pphaiaiai&show_icons=true&locale=en&theme=tokyonight" alt="pphaiaiai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pphaiaiai&" alt="pphaiaiai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pphaiaiai&theme=tokyonight" alt="pphaiaiai" /></p>
