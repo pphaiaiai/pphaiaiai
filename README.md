@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" /> 
 </p>
 
-<h2 align="left">🦖 About Me</h2>
+<h2 align="left">🐧 About Me</h2>
 
 - 🌱 I’m currently learning to be a **Backend Developer , DevOps Engineer and Frontend Developer**
 
