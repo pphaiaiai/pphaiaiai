@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Tarathep Siripis</h1>
 <h3 align="center">A passionate Backend Developer an also an information technology students at KMUTT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" /> 
-</p>
 
-<h2 align="left">About Me <img src="https://media.giphy.com/media/QuOSad6H2cu7YegaiN/giphy.gif" width = 40px> </h2>
+
+<h2 align="left">About Me <img src="https://media.giphy.com/media/QuOSad6H2cu7YegaiN/giphy.gif" width = 40px> 
+  <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" align="right" /> 
+</h2>
 
 - 🌱 I’m currently learning to be a **Backend Developer , DevOps Engineer and Frontend Developer**
 
