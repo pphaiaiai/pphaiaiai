@@ -3,7 +3,7 @@
 
 
 
-<h2 align="left">About Me <img src="https://media.giphy.com/media/QuOSad6H2cu7YegaiN/giphy.gif" width = 40px> 
+<h2 align="left">About Me <img src="https://media.giphy.com/media/sbFkocBdSubAc/giphy.gif" width = 35px> 
   <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" align="right" /> 
 </h2>
 
