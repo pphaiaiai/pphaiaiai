@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tarathep Siripis</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Tarathep Siripis</h1>
 <h3 align="center">A passionate Backend Developer an also an information technology students at KMUTT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" /> 
 </p>
 
-<h2 align="left">🐧 About Me</h2>
+<h2 align="left">About Me <img src="https://media.giphy.com/media/QuOSad6H2cu7YegaiN/giphy.gif" width = 40px> </h2>
 
 - 🌱 I’m currently learning to be a **Backend Developer , DevOps Engineer and Frontend Developer**
 
@@ -17,13 +17,12 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pphaiaiai&theme=onedark" alt="pphaiaiai" /> 
 </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"></h2>
 <p align="left">
 <a href="https://fb.com/phai.tarathep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarathep siripis" height="30" width="40" /></a>
-<a href="https://instagram.com/pphaiaiai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pphaiaiai" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Skills:</h2>
+<h2 align="left">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30></h2>
 <p align="left">
 <h3 align="left">Programming Languages:</h3>
 <table>
@@ -59,6 +58,7 @@
 <tr>
 <th><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </th>
 <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </th>
+<th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></th>
 </tr>
 </table>
 
@@ -87,7 +87,7 @@
 </tr>
 </table>
 
-<h3 align="left">Other skills:</h3>
+<h3 align="left">Other skills: </h3>
 <table>
 <tr>
 <th><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </th>
@@ -96,7 +96,7 @@
 </table>
 </p>
 
-<h2 align="left">Statistical Data:</h2>
+<h2 align="left">Statistical Data <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-top:30;"></h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphaiaiai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pphaiaiai" 
 /></p>
