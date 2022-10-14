@@ -11,7 +11,7 @@
 
 - 🪄 I'm interested in **Fullstack Developer**
 
-- 🎓 I'm Junior student 3rd year at **SIT KMUTT**
+- 🎓 I'm Junior student 3rd year at **School of Information Technology, King Mongkut's University of Technology Thonburi.**
 
 - 📫 How to reach me **tarathep.siripis@gmail.com**
 
