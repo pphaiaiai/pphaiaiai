@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" align="right" /> 
 </h2>
 
-- 🌱 I’m currently learning to be a **Backend Developer , DevOps Engineer and Frontend Developer.**
+- 🌱 I’m currently learning to be a **Backend Developer and DevOps Engineer.**
 
 - 🪄 I'm interested in **Fullstack Developer.**
 
