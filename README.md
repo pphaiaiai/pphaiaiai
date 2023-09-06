@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" align="right" /> 
 </h2>
 
-- 🌱 I’m currently learning to be a **Backend Developer and DevOps Engineer.**
+- 🌱 I’m currently learning to be a **Backend Developer and Frontend Developer.**
 
 - 🪄 I'm interested in **Fullstack Developer.**
 
-- 🎓 I'm Junior student 3rd year at **School of Information Technology, King Mongkut's University of Technology Thonburi.**
+- 🎓 I'm a Junior student 4th year at **School of Information Technology, King Mongkut's University of Technology Thonburi.**
 
 - 📫 How to reach me **tarathep.siripis@gmail.com**
 
