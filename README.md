@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Tarathep Siripis</h1>
-<h3 align="center">A passionate Backend Developer an also an information technology students at KMUTT</h3>
+<h3 align="center">A passionate Backend Developer an also an information technology student at KMUTT</h3>
 
 
 
