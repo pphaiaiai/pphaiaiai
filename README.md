@@ -17,17 +17,14 @@
 
 <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"></h2>
 <p align="left">
-<a href="https://fb.com/phai.tarathep/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarathep siripis" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tarathep-siripis" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarathep siripis" height="30" width="40" /></a>
-</p>
+  
+  [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/phai.tarathep/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarathep-siripis)  
 
 <h2 align="left">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30></h2>
 <p align="left">
 <h3 align="left">Programming Languages:</h3>
   
- ![](https://img.shields.io/badge/Java-EC2024?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Java-EC2024?style=for-the-badge&logo=java&logoColor=white)
 
 <h3 align="left">Frontend Development:</h3>
 
@@ -39,7 +36,7 @@
 
 <h3 align="left">Database:</h3>
 
-![](https://img.shields.io/badge/R-276AC0?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/R-276AC0?style=for-the-badge&logo=&logoColor=white)
 
 <h3 align="left">Devops:</h3>
 
@@ -63,5 +60,3 @@
 /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pphaiaiai&show_icons=true&locale=en&theme=tokyonight" alt="pphaiaiai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pphaiaiai&theme=tokyonight" alt="pphaiaiai" /></p>
