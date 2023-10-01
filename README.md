@@ -1,26 +1,24 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Tarathep Siripis</h1>
-<h3 align="center">A passionate Backend Developer an also an information technology student at KMUTT</h3>
+<h1 align="center">Hi, I'm Tarathep Siripis</h1>
+<h3 align="center">A passionate Backend Developer and also an information technology student at KMUTT</h3>
 
 
 
-<h2 align="left">About Me <img src="https://media.giphy.com/media/sbFkocBdSubAc/giphy.gif" width = 35px> 
-  <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e75b6&style=flat" alt="pphaiaiai" align="right" /> 
-</h2>
+<h2 align="left">About Me </h2>
 
-- 🌱 I’m currently learning to be a **Backend Developer and Frontend Developer.**
+🌱 I’m currently learning to be a **Backend Developer and Frontend Developer.**
 
-- 🪄 I'm interested in **Fullstack Developer.**
+🪄 I'm interested in **Fullstack Developer.**
 
-- 🎓 I'm a Junior student 4th year at **School of Information Technology, King Mongkut's University of Technology Thonburi.**
+🎓 I'm a Junior student 4th year at **School of Information Technology, King Mongkut's University of Technology Thonburi.**
 
-- 📫 How to reach me **tarathep.siripis@gmail.com**
+📫 How to reach me **tarathep.siripis@gmail.com**
 
-<h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"></h2>
+<h2 align="left">Connect with me </h2>
 <p align="left">
   
   [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/phai.tarathep/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarathep-siripis)  
 
-<h2 align="left">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30></h2>
+<h2 align="left">Skills </h2>
 <p align="left">
 <h3 align="left">Programming Languages:</h3>
   
@@ -53,7 +51,7 @@
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h2 align="left">Statistical Data <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-top:30;"></h2>
+<h2 align="left">Statistical Data </h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphaiaiai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pphaiaiai" 
 /></p>
