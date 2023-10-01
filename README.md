@@ -3,8 +3,8 @@
 
 
 
-<h2 align="left">About Me 🌻
-  <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e1117&style=flat" alt="pphaiaiai" align="right" /> </h2>
+About Me 🌻
+  <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e1117&style=flat" alt="pphaiaiai" align="right" />
 
 🌱 I’m currently learning to be a **Backend Developer and Frontend Developer.**
 
