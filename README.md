@@ -3,7 +3,8 @@
 
 
 
-<h2 align="left">About Me </h2>
+<h2 align="left">About Me 🌻
+  <img src="https://komarev.com/ghpvc/?username=pphaiaiai&label=Profile%20views&color=0e1117&style=flat" alt="pphaiaiai" align="right" /> </h2>
 
 🌱 I’m currently learning to be a **Backend Developer and Frontend Developer.**
 
@@ -13,12 +14,12 @@
 
 📫 How to reach me **tarathep.siripis@gmail.com**
 
-<h2 align="left">Connect with me </h2>
+<h2 align="left">Connect with me 🌐</h2>
 <p align="left">
   
   [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/phai.tarathep/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarathep-siripis)  
 
-<h2 align="left">Skills </h2>
+<h2 align="left">Skills 💻</h2>
 <p align="left">
 <h3 align="left">Programming Languages:</h3>
   
@@ -51,7 +52,7 @@
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h2 align="left">Statistical Data </h2>
+<h2 align="left">Statistical Data 📈</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphaiaiai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pphaiaiai" 
 /></p>
