@@ -58,3 +58,7 @@
 /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pphaiaiai&show_icons=true&locale=en&theme=tokyonight" alt="pphaiaiai" /></p>
+
+<h2 align="left">GitHub Trophy 🏆</h2>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pphaiaiai&theme=onedark" alt="pphaiaiai" /> 
+</p>
