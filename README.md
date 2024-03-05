@@ -51,14 +51,3 @@
 <h3 align="left">Other skills: </h3>
 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<h2 align="left">Statistical Data 📈</h2>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphaiaiai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pphaiaiai" 
-/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pphaiaiai&show_icons=true&locale=en&theme=tokyonight" alt="pphaiaiai" /></p>
-
-<h2 align="left">GitHub Trophy 🏆</h2>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pphaiaiai&theme=onedark" alt="pphaiaiai" /> 
-</p>
