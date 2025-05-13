@@ -1,23 +1,4 @@
 <h1 align="center">Hi, I'm Tarathep Siripis</h1>
-<h3 align="center">A passionate Backend Developer and also an information technology student at KMUTT</h3>
-
-
-
-<h2 align="left">About Me 🌻
-   </h2>
-  
-🌱 I’m currently learning to be a **Backend Developer and Frontend Developer.**
-
-🪄 I'm interested in **Fullstack Developer.**
-
-🎓 I'm a Junior student 4th year at **School of Information Technology, King Mongkut's University of Technology Thonburi.**
-
-📫 How to reach me **tarathep.siripis@gmail.com**
-
-<h2 align="left">Connect with me 🌐</h2>
-<p align="left">
-  
-  [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/phai.tarathep/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarathep-siripis)  
 
 <h2 align="left">Skills 💻</h2>
 <p align="left">
